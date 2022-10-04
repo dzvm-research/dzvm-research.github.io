@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Daniel Zeymer von Metnitz"
+description = "Personal website of Daniel Zeymer von Metnitz. Last year Medical Student, Researcher at University Tübingen"
+# copyright = "Daniel Zeymer von Metnitz"
+dateFormat = "4 October 2022"
+
+[author]
+  name = "Daniel Zeymer von Metnitz"
+  image = "img/author.png"
+  bio = "Personal website of Daniel Zeymer von Metnitz. Last year Medical Student, Researcher at University Tübingen"
+  links = [
+    { linkedin2 = "https://www.linkedin.com/in/dzvm/" },
+    { twitter = "https://twitter.com/dzvm_" },
+    { researchgate = "https://www.researchgate.net/profile/Daniel_Zeymer_Von_Metnitz" },
+    { google-scholar = "https://scholar.google.de/citations?user=HSXq1WIAAAAJ" },
+    { orcid = "https://orcid.org/0000-0002-0429-8874" },
+    { github = "https://github.com/dzvm-research" },
+  #   { email = "/contact/" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { medium = "https://medium.com/username" },
+  #   { youtube = "https://youtube.com/username" },
+  ]

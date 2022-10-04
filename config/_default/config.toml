@@ -1,0 +1,5 @@
+baseURL = 'https://dzvm-research.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "congo"
