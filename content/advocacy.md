@@ -4,6 +4,9 @@ layout: "simple"
 title: Advocacy
 ---
 
+Over the last few years I have been active within different organisations.
+Covering **youth engagement**, **climate change**.
+
 ## IFMSA
 
 The (<a href="https://ifmsa.org/" target="_blank" rel="noopener">IFMSA</a>): is the oldest and largest youth led organisations worldwide, representing 1,3 million medical studnets in x countris in x National member organisations:
@@ -23,13 +26,29 @@ I am or have been active at [AMSA](https://uclouvain.be/) adovacting for all med
 
 - 2020 - 2021: <b>Vice President of External Affairs</b>
   - Advocacy
+  - [Climate Change(s) Health](https://climatechangeshealth.at)
+    - Webinar, Website, lead team, meetings
+    - 5000 visitors over 7 weeks
+    -
+  - Mental Health Awareness week
+  - European Vaccination week
 - 2020 - 2021: <b>Co-Head of Sub Regional Training Organizing Committee</b>
   - Creation of website
 - 2020 - 2020: <b>Webmaster</b>
   - Creation of website
 - 2020 - 2020: <b>Presidents Assistant for PR and Web</b>
-  - Creation of website
+    - Mental Health Awareness week
+    - European Vaccination week
+    - Posts, Stories, Facebook Admin, ...
 
+## AC SFU Med
+
+Founding member of the Alumniclub der SFU Medizin.
+
+- 2021 - current: secretary
+  - satzung, formulare, graphic design,
+- student representative 2020
+  - student voice within the AC
 
 ## Workshops & trainings
 

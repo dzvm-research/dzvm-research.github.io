@@ -12,7 +12,7 @@ dateFormat = "4 October 2022"
 
 [author]
   name = "Daniel Zeymer von Metnitz"
-  image = "img/author.png"
+  image = "img/dzvm.jpg"
   bio = "Personal website of Daniel Zeymer von Metnitz. Last year Medical Student, Researcher at University Tübingen"
   links = [
     { linkedin2 = "https://www.linkedin.com/in/dzvm/" },
