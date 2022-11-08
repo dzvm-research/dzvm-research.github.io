@@ -12,7 +12,8 @@ Enjoying sharing my skills with others, I am [teaching](/teaching/) assistant fo
 As a medical student I gathered **experience** in different clinics: University Hospital Zurich (USZ), Charité Berlin, Educational Surgical Clinical of Azerbaijan Medical University, University Medical Center Hamburg-Eppendorf (UKE).
 See more in my [CV](/cv/).
 
-I am  also [advocating](/advocacy/) in different organisations: Vice Head of the [ÖH SFU](https://oeh-sfu.at/), Clerk at the education departement of the Austrian Students Union [ÖH](https://oeh.ac.at/), as well as at the Austrian Medical Students Union [AMSA](https://amsa.at/) for several years. I am also active within the International Federation of Medical Student Associations [IFMSA](https://ifmsa.org/). Serving as elected Secretary of the Alumni Club of the medical Branch [AC SFU MED](https://acsfumed.at/)
+I am  also [advocating](/advocacy/) in different organisations:
+Vice President for International Affairs (Acting NMO President) of the [Austrian Medical Students' Union](https://amsa.at/) within the [International Federation of Medical Students' Associations](https://ifmsa.org/) and Officer at the Office for Education Policy of the [Austrian Students' Union (ÖH)](https://oeh.ac.at/) Federal Representation of Students as well as Vice Head of the Students' Union at the SFU [ÖH SFU](https://oeh-sfu.at/). I am also serving as elected Secretary of the Alumni Club of the medical Branch [AC SFU MED](https://acsfumed.at/).
 More Information about my work you find [here](/advocacy/)
 
 When I find the time, I also **develop** [websites](/code/). I am a passionate runner.
