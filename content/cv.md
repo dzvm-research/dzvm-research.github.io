@@ -29,6 +29,9 @@ CV on LinkedIn
 - (09/2014, 03/2014, 10/2012) **Diakonissen-Krankenhaus** | **Intensive care unit** | Care Practical | *Kassel, Germany*
 - (10/2010)	**Cedars-Sinai Medical Center** | Division of **Cardiology** | Independent Student in Research | *Los Angeles, USA*
 
+### Other
+- (09/2022 - present) Expert in a institutional accreditation of a private university for [AQ Austria](https://www.aq.ac.at/en/index.php)
+
 ### Research
 [Here](/research/) you find all information about my publications, presentations and [research](/research/) interests.
 - Doctoral Researcher, "Quantitative analysis of retina images" at Ueffing Lab, Institute for ophtalmic research, University Hospital and Faculty of Medicine, Eberhard Karls University of Tübingen (since 2017) | *Tübingen, Germany*
@@ -44,6 +47,7 @@ All my experience within youth led organisations you can find [here](/advocacy/)
 - Immediate Life Support (ILS) Provider | [European Resuscitation Council](https://erc.edu/) (01/2021)
 - JungmedizinerInnen am Start |  Gesellschaft der Ärzte in Wien (College of Physicians in Vienna) [Billrothhaus](https://www.billrothhaus.at) (04/2021)
   - 7 day course, Contents: Law und Ethics, Pharmacology ABC, Diagnostics, Emergencies, Difficult Situation Training, Night Shift Insights, ENT, Interactive Case Presentations
+- 10/2016-03/2017	Gesprächskompetenz Seminar, Studium Professionale, Uni Tübingen
 
 ## Technical skills & languages
 

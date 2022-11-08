@@ -8,18 +8,23 @@ Over the last few years I have been active within different youth led organisati
 Following you find an overview of my activities:
 
 ## Summary of current activities and most important projects
-- (08/2021-present) **Clerk in the departement for education policy**
-- (12/2021 - present) **Vice Head of ÖH SFU**
-- (2022) **UNITE 2030** Disruptors Track, VDP 6 [UNITE2030](https://www.unite2030.com)
-- (05/2021-06/2021)	**74th World Health Assembly of the WHO, Delegate** for IFMSA
-- (09/2021)	World Health Organisation (WHO), **71st Regional Committee for Europe, Delegate** for the IFMSA
-- (2021) [Climate Change(s) Health](https://climatechangeshealth.at)
-- (10/2020-09/2021) **Vice President for External Affairs** (VPE), Executive Board
-- (2019-present) Founding member of the Alumniclub der SFU Medizin.
+- **Vice President for International Affairs** (Acting NMO President for the [IFMSA](https://ifmsa.org/)) of [AMSA](https://amsa.at/) (Term 22/23)
+- **Officer in the Office for Education Policy** (08/2021-present)
+- **Vice Head of ÖH SFU** (12/2021 - present)
+- Founding member of the Alumniclub der SFU Medizin (2019-present)
+
+## Summary of most important projects
+- **UNITE 2030** Disruptors Track, VDP 6 [UNITE2030](https://www.unite2030.com) (2022)
+- **74th World Health Assembly of the WHO, Delegate** for IFMSA (2021)
+- World Health Organisation (WHO), **71st Regional Committee for Europe, Delegate** for the IFMSA (2021)
+- [Climate Change(s) Health](https://climatechangeshealth.at) (2021)
+- **Vice President for External Affairs** (VPE), Executive Board (10/2020-09/2021)
+- **Head of the Student Representative for Medcine** (07/2019-06/2021)
+
 
 # All my Experience
 
-## International Federation of Medical Students Organisations
+## International Federation of Medical Students' Organisations
 
 The [IFMSA](https://ifmsa.org/) is the oldest and largest youth led organisations worldwide, representing connects and engages every day with an inspiring and engaging network of 1.3 million medical students from 139 National Member Organisations in 130 countries around the globe:
 
@@ -48,61 +53,76 @@ The [IFMSA](https://ifmsa.org/) is the oldest and largest youth led organisation
 - (09/2020) Training T4All ANEM Portugal, Online
   - LEAD Learn, Educate, Appreciate, Develop)
 
-## Austrian Students Union
+## Austrian Medical Students' Union
+  I am active at [AMSA](https://amsa.at/) adovacting for all medical students in Austria. AMSA was founded in 1951 and is founding member of the IFMSA.
 
-The Österreichische Hochschüler_innenschaft Bundesvertretung (ÖH) = Austrian Students Union is the elected student body advocate for the interests of alls Austrian Students, act as the students’ political representation as well as offering services and hosting events
+  - (since 11/2022) **Vice President for International Affairs** (VPI), Executive Board
+    - Acting NMO (National Member Organisation) President within the [IFMSA](https://ifmsa.org/)
+    - Head of the Delegations to the General Assemblies
 
-### Bundesvertretung
-- (08/2021-present) **Clerk in the departement for education policy**
-  - PU VoKo Meetings
-  - Ausbildungsvertragsevaluierung
-  - Beratung, Vernetzung
+  - (10/2020-09/2021) **Vice President for External Affairs** (VPE), Executive Board
+    - Advocacy, External relations with partners, Stakeholder-mapping
+    - Statements, Publication of policy papers and advocacy, Application for Awards
+    - Fundraising, Transparent information for sponsoring
+    - Event organisation with EB: 4 National GAs, EBMs, EEBMs, AMSACon2020
+    - National Trainings & National SC Weekends
+  - (2020 - 2021) **Co-Head of Sub Regional Training Organizing Committee**
+    - cancelled due to COVID-19)
+    - Head of PR of SRT OC 2021
+    - Meeting Facilitation, planning
+  - (2020) **Webmaster**
+    - Creation of website
+  - (2020) **Presidents Assistant for PR and Web<**
+      - Mental Health Awareness Week 2020
+      - European Vaccination Week 2020
+      - Posts, Stories, Facebook Admin, ...
+
+    - Projects:
+      - (2021) [Climate Change(s) Health](https://climatechangeshealth.at)
+        - Team lead for AMSA, Campaign planning, designs, website developement, evaluation, zoom webinar management         
+        - 7 sessions over 7 weeks with 5000 visitors in total
+      - (2021 & 2020) **Mental Health Awareness week** - MHAW
+        - Campaign planning, designs, interviews
+      - (2020 & 2021) **European Vaccination week** - EIW
+        - Campaign planning, designs, video editing
+
+## Austrian Students' Union (ÖH) Federal Representation of Students
+Vienna, Austria
+The Österreichische Hochschüler_innenschaft Bundesvertretung (ÖH) = [Austrian Students' Union (ÖH) Federal Representation of Students](https://oeh.ac.at/) is the elected student body advocate for the interests of alls Austrian Students, act as the students’ political representation as well as offering services and hosting events.
+
+- (08/2021-present) **Officer in the Office for Education Policy**
+  - Spokespersons of the Chairpersons’ Conference of the private universities
+  - Organisation of the Chairpersons’ Conferences of the private universities
+  - review of the education contracts
+  - consultation service
+  - Networking
 - (2021) QS Pool Schulung (Quality Assurance and Accreditation Training) | participant
   - Member of the Accreditation Pool of the ÖH
 
-### ÖH SFU
+### ÖH SFU (Students' Union at the Sigmund Freud Privatuniversität)
+Vienna, Austria
+
+Österreichische Hochschülerinnen- und Hochschülerschaft an der Sigmund Freud Privatuniversität
 - (12/2021 - present) **Vice Head of ÖH SFU**
 - (07-12/2021) Speaker for education policy
-- (07/2019-06/2021) Elected Chairman of the	Studienvertretung Medizin
+- (07/2019-06/2021) **Head of the Student Representative for Medcine** (Studienvertretung Medizin)
+  - 41 events
+  - weekly meetings
+  - 2 buddy programm
+  - developement of website
+- (07/2019-06/2021) Member of the Senat (highest elected decision making body/committee at SFU)
 - (07/2019-06/2021) Clerk in the department for public relations and communication
-
-## Austrian Medical Students Union
-
-I am active at [AMSA](https://amsa.at/) adovacting for all medical students in Austria. AMSA was founded in 1951 and is founding member of the IFMSA.
-
-- (10/2020-09/2021) **Vice President for External Affairs** (VPE), Executive Board
-  - Advocacy, External relations with partners, Stakeholder-mapping
-  - Statements, Publication of policy papers and advocacy, Application for Awards
-  - Fundraising, Transparent information for sponsoring
-  - Event organisation with EB: 4 National GAs, EBMs, EEBMs, AMSACon2020
-  - National Trainings & National SC Weekends
-
-- Projects:
-  - (2021) [Climate Change(s) Health](https://climatechangeshealth.at)
-    - Team lead for AMSA, Campaign planning, designs, website developement, evaluation, zoom webinar management
-    - 7 sessions over 7 weeks with 5000 visitors in total
-  - (2021 & 2020) **Mental Health Awareness week** - MHAW
-    - Campaign planning, designs, interviews
-  - (2020 & 2021) **European Vaccination week** - EIW
-    - Campaign planning, designs, video editing
-- (2020 - 2021) **Co-Head of Sub Regional Training Organizing Committee**
-  - cancelled due to COVID-19)
-  - Head of PR of SRT OC 2021
-  - Meeting Facilitation, planning
-- (2020) **Webmaster**
-  - Creation of website
-- (2020) **Presidents Assistant for PR and Web<**
-    - Mental Health Awareness Week 2020
-    - European Vaccination Week 2020
-    - Posts, Stories, Facebook Admin, ...
+  - developement of website
+  - developement of CI Manual
 
 ## Alumniclub of the SFU Faculty for Medicine
+Vienna, Austria
 
 Founding member of the Alumniclub der SFU Medizin.
 - (09/2021 - current) Secretary
-  - Satzung, Formulare, Graphic design, E-Mail
+  - constitution, forms, graphic design, communication
 - (12/2019-09/2021) Chairman for the students
-  - student representative within the Alumniclub
+  - student representative
   - founding member
 
 ## Other Experience
@@ -123,9 +143,11 @@ Founding member of the Alumniclub der SFU Medizin.
     - Held training for new members to become educators against tobacco
   - (2016, 2017) Visited [German conference of tobacco control](https://www.dkfz.de/de/tabakkontrolle/Deutsche_Konferenzen_fuer_Tabakkontrolle.html) | WHO Collaborating Center for Tobacco Control in collaboration with the Non-Smoking Action Alliance at the German Cancer Research Center (DKFZ) in Heidelberg, Germany.
 - (2015-2018) **Fachschaft Medizin Tübingen**
+  - Fachschaft Medizin Tübingen, Organisation, Webseite, IT, Postbeauftragter
   - Student Member of several appointment committees of the Faculty of Medicine of the University of Tübingen, Germany
+  - 10/2017-10/2018	Stellvertretendes stud. Mitglied Studienkommission, Uni Tübingen
   - Website development and Corporate Design see [code](/code/)
-
+- 04/2015-06/2017	Rock your Life Tübingen, Mentor
 
 ## Workshops & trainings
 
