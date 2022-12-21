@@ -1,5 +1,5 @@
 baseURL = 'https://dzvm-research.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Personal Website of Daniel Zeymer von Metnitz'
 
 theme = "congo"

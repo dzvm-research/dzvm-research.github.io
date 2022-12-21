@@ -15,3 +15,4 @@ Enjoying sharing my skills with others, I am [teaching](/teaching/) assistant fo
 {{< button href="/about/" target="_self" >}}
 Learn more
 {{< /button >}}
+<!-- <a rel="me" href="https://mastodon.social/@dzvm">Mastodon</a> -->
