@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Daniel Zeymer von Metnitz</title>
+    <link>https://dzvm-research.github.io/tags/research/</link>
+    <description>Recent content in research on Daniel Zeymer von Metnitz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dzvm-research.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>German Cardiac Arrest Registry</title>
+      <link>https://dzvm-research.github.io/code/gcar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://dzvm-research.github.io/code/gcar/</guid>
+      <description>&lt;kbd&gt;2022&lt;/kbd&gt;&lt;/br&gt; G-CAR is the first national (German) registry including a long-term follow-up for adult OHCA patients with presumed underlying cardiovascular cause and long-term follow-up development and design of website, currently updating and maintaining website and server for &lt;a href=&#34;https://leipzig-heart.de&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Leipzig Heart Science gGmbH&lt;/a&gt;.</description>
+    </item>
+  </channel>
+</rss>
