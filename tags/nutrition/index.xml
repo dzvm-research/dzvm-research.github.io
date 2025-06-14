@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition on Daniel Zeymer von Metnitz</title>
-    <link>https://dzvm-research.github.io/tags/nutrition/</link>
+    <link>http://localhost:1313/tags/nutrition/</link>
     <description>Recent content in Nutrition on Daniel Zeymer von Metnitz</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2025 Daniel Zeymer von Metnitz</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dzvm-research.github.io/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Austrian Medical Students&#39; Association</title>
-      <link>https://dzvm-research.github.io/code/amsa/</link>
+      <link>http://localhost:1313/code/amsa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dzvm-research.github.io/code/amsa/</guid>
+      <guid>http://localhost:1313/code/amsa/</guid>
       <description>&lt;kbd&gt;2020&lt;/kbd&gt;&lt;/br&gt; AMSA advocates for all medical students in Austria on a national and international level, since 1951 founding member of IFMSA, development and design of new Website in 2020, needs analysis, feedback rounds, project planning and timeline, sites: home, projects, become active, SCs, Exchange, LCs, International, Advocacy, about, Analytics, News, Events.</description>
     </item>
     <item>
       <title>Students Union at the Sigmund Freud University Vienna</title>
-      <link>https://dzvm-research.github.io/code/oehsfu/</link>
+      <link>http://localhost:1313/code/oehsfu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dzvm-research.github.io/code/oehsfu/</guid>
+      <guid>http://localhost:1313/code/oehsfu/</guid>
       <description>&lt;kbd&gt;2020&lt;/kbd&gt;&lt;/br&gt; The ÖH SFU is the elected student body advocate for the interests of &amp;gt;5000 Students, act as the students’ political representation as well as offering services and hosting events, development of new Website and creation of new Corporate Identity, Sites including: Services, About, Contact, as well as SEO, Analytics with over 100 Visitors/day</description>
     </item>
     <item>
       <title>Website of Student Representative for Medicine of Students Union at the Sigmund Freud University</title>
-      <link>https://dzvm-research.github.io/code/stvmed/</link>
+      <link>http://localhost:1313/code/stvmed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dzvm-research.github.io/code/stvmed/</guid>
+      <guid>http://localhost:1313/code/stvmed/</guid>
       <description>&lt;kbd&gt;2020&lt;/kbd&gt; &lt;/br&gt;&amp;ldquo;The stvmed is the elected student body advocate for the interests of &amp;gt;1100 medical Students, act as the students’ political representation as well as offering services and events, development of first Website and creation of new Corporate Identity.&amp;rdquo;</description>
     </item>
     <item>
       <title>Fachschaft Medizin Tübingen</title>
-      <link>https://dzvm-research.github.io/code/fsmed/</link>
+      <link>http://localhost:1313/code/fsmed/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://dzvm-research.github.io/code/fsmed/</guid>
+      <guid>http://localhost:1313/code/fsmed/</guid>
       <description>&lt;kbd&gt;2018&lt;/kbd&gt;&lt;/br&gt; FSMED is the student body of the faculty for medicine representing over &amp;gt;2500 students of the medical faculty of the University of Tübingen - development of Website and of the new Corporate Design, Project together with D. Hundertmark.</description>
     </item>
   </channel>
