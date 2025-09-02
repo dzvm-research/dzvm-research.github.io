@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daniel Zeymer von Metnitz</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://dzvm-research.github.io/tags/</link>
     <description>Recent content in Tags on Daniel Zeymer von Metnitz</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2025 Daniel Zeymer von Metnitz</copyright>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dzvm-research.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://dzvm-research.github.io/tags/research/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>https://dzvm-research.github.io/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>http://localhost:1313/tags/android/</link>
+      <link>https://dzvm-research.github.io/tags/android/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/android/</guid>
+      <guid>https://dzvm-research.github.io/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Dart</title>
-      <link>http://localhost:1313/tags/dart/</link>
+      <link>https://dzvm-research.github.io/tags/dart/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dart/</guid>
+      <guid>https://dzvm-research.github.io/tags/dart/</guid>
       <description></description>
     </item>
     <item>
       <title>Flutter</title>
-      <link>http://localhost:1313/tags/flutter/</link>
+      <link>https://dzvm-research.github.io/tags/flutter/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/flutter/</guid>
+      <guid>https://dzvm-research.github.io/tags/flutter/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Profit</title>
-      <link>http://localhost:1313/tags/non-profit/</link>
+      <link>https://dzvm-research.github.io/tags/non-profit/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/non-profit/</guid>
+      <guid>https://dzvm-research.github.io/tags/non-profit/</guid>
       <description></description>
     </item>
     <item>
       <title>Nutrition</title>
-      <link>http://localhost:1313/tags/nutrition/</link>
+      <link>https://dzvm-research.github.io/tags/nutrition/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nutrition/</guid>
+      <guid>https://dzvm-research.github.io/tags/nutrition/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
+      <link>https://dzvm-research.github.io/tags/open-source/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/open-source/</guid>
+      <guid>https://dzvm-research.github.io/tags/open-source/</guid>
       <description></description>
     </item>
   </channel>
